@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "aiGolf",
+    "slug": "aiGolf",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.golfai",
+      "requireFullScreen": true
+    },
+    "android": {
+      "package": "com.golfai"
+    }
+  },
+  "name": "aiGolf"
+}
